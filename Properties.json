@@ -1,0 +1,170 @@
+[
+  {
+    "Colocation_name": "Querbes 2",
+    "Apartment_ID": 3,
+    "Number_of_bedroom": 4,
+    "Number_of_Bathrooms": 1,
+    "Price": 3450,
+    "Apartment_description": "Fully furnished 4-bedroom, 1-bathroom apartment with a living room in Mile-End. Located 17 minutes away from HEC Montreal, UdeM, and Polytechnique by public transit.?\n\nHeating and electricity, water, and Wi-Fi are included.\n\n6-month lease term.\n\nWasher/dryer in the apartment.",
+    "Address": "Querbes, Outremont, QC, Canada",
+    "included": [
+      "Furnished",
+      "Heating",
+      "Washer",
+      "Dryer",
+      "Hot-water",
+      "Electricity",
+      "Wi-fi"
+    ],
+    "Rented": true,
+    "Date_de_disponibilite": "2024-06-01"
+  },
+  {
+    "Colocation_name": "Saint Joseph",
+    "Apartment_ID": 5,
+    "Number_of_bedroom": 3,
+    "Number_of_Bathrooms": 1,
+    "Price": 2960,
+    "Apartment_description": "Fully furnished 3-bedroom, 1-bathroom apartment with a living room in Plateau. Located 26 minutes away from HEC Montreal, UdeM, and Polytechnique by public transit.?\n\nHeating and electricity, water, and Wi-Fi are included.\n\n4 to 6 month lease term.\n\nWasher/dryer in the apartment.",
+    "Address": "Boulevard Rosemont, Montreal, QC, Canada",
+    "included": [
+      "Furnished",
+      "Washer",
+      "Dryer",
+      "Heating",
+      "Hot-water",
+      "Electricity",
+      "Wi-fi"
+    ],
+    "Rented": true,
+    "Date_de_disponibilite": "2024-07-01"
+  },
+  {
+    "Colocation_name": "Querbes 1",
+    "Apartment_ID": 2,
+    "Number_of_bedroom": 4,
+    "Number_of_Bathrooms": 1,
+    "Price": 3450,
+    "Apartment_description": "Fully furnished 4-bedroom, 1-bathroom apartment with a living room in Mile-End. Located 17 minutes commute time from HEC Montreal, UdeM, and Polytechnique.?\n\nHeating, water, and electricity are included.\n\n5-month or more lease term.\n\nWasher/dryer in the apartment.",
+    "Address": "Querbes, Outremont, QC, Canada",
+    "included": [
+      "Furnished",
+      "Heating",
+      "Washer",
+      "Dryer",
+      "Hot-water",
+      "Electricity",
+      "Wi-fi"
+    ],
+    "Rented": false,
+    "Date_de_disponibilite": "2024-04-01"
+  },
+  {
+    "Colocation_name": "Sainte-Catherine",
+    "Apartment_ID": 6,
+    "Number_of_bedroom": 3,
+    "Number_of_Bathrooms": 2,
+    "Price": 3000,
+    "Apartment_description": "Fully furnished 3-bedroom, 1-bathroom apartment with a living room in Westmont. Located 36 minutes away from HEC Montreal, UdeM, and Polytechnique by public transit.?\n\nAvailable now.\n\nFlexible lease term.\n\nWasher/dryer in the apartment.",
+    "Address": "Rue Sainte-Catherine, Westmount, QC H3Z 1R7, Canada",
+    "included": [
+      "Furnished",
+      "Washer",
+      "Dryer"
+    ],
+    "Rented": false,
+    "Date_de_disponibilite": "2024-03-01"
+  },
+  {
+    "Colocation_name": "Ducharme",
+    "Apartment_ID": 9,
+    "Number_of_bedroom": 2,
+    "Number_of_Bathrooms": 1,
+    "Price": 1850,
+    "Apartment_description": "Very spacious 2-bedroom Condo in Outremont \nSituated  3 minutes from Outremont Metro Station.  Close to local shops and services cafes, and restaurants.\n\nAvailable Now!\nHydro is the responsibility of the tenants.",
+    "Address": "Av. Ducharme, Outremont, QC H2V 1E9, Canada",
+    "included": [
+      "Washer",
+      "Dryer",
+      "Stove",
+      "Fridge"
+    ],
+    "Rented": false,
+    "Date_de_disponibilite": "2024-03-01"
+  },
+  {
+    "Colocation_name": "Rosemont",
+    "Apartment_ID": 7,
+    "Number_of_bedroom": 1,
+    "Number_of_Bathrooms": 1,
+    "Price": 1600,
+    "Apartment_description": "3 1/2 available (1 bedroom) in Petite-Patrie. It is located 11 minutes away from the Rosemont station.\n\nHydro and Wi-Fi are not included. The unit is not furnished",
+    "Address": "Saint Joseph Boulevard East, Montreal, QC, Canada",
+    "included": [
+      "Washer",
+      "Dryer",
+      "Fridge",
+      "Stove"
+    ],
+    "Rented": false,
+    "Date_de_disponibilite": "2024-03-01"
+  },
+  {
+    "Colocation_name": "Le Within",
+    "Apartment_ID": 1,
+    "Number_of_bedroom": 4,
+    "Number_of_Bathrooms": 2,
+    "Price": 4000,
+    "Apartment_description": "Fully furnished 4-bedroom, 2 -bathroom apartment with a living room in City center. Located 1 minute away from Metro Guy-Concordia.\n\nAvailable now.\n\nFlexible lease term.\n\nWasher/dryer in the apartment.",
+    "Address": "Av. Lincoln, Montr�al, QC H3H 1H3",
+    "included": [
+      "Furnished",
+      "Washer",
+      "Dryer",
+      "Electricity",
+      "Dish-washer",
+      "Heating",
+      "Hot-water",
+      "Wi-fi"
+    ],
+    "Rented": false,
+    "Date_de_disponibilite": "2024-03-01"
+  },
+  {
+    "Colocation_name": "Jeanne_Mance",
+    "Apartment_ID": 8,
+    "Number_of_bedroom": 4,
+    "Number_of_Bathrooms": 1,
+    "Price": 2995,
+    "Apartment_description": "5 1/2 available (4 bedrooms) in the Mile End. It is located 12 minutes away from the Rosemont station.\n\nHydro and Wi-Fi are not included. The unit is not furnished",
+    "Address": "Jeanne Mance St, Montreal, QC H2V 4K8, Canada",
+    "included": [
+      "Washer",
+      "Dryer",
+      "Fridge",
+      "Stove"
+    ],
+    "Rented": false,
+    "Date_de_disponibilite": "2024-03-01"
+  },
+  {
+    "Colocation_name": "Plaza",
+    "Apartment_ID": 4,
+    "Number_of_bedroom": 4,
+    "Number_of_Bathrooms": 1,
+    "Price": 2800,
+    "Apartment_description": "A fully furnished bedroom is available (Room number 3) in a 4-bedroom, 1-bathroom apartment in C�te-des-Neiges.\n\nHeating, electricity, water, and Wi-Fi are included.\n\n4-month lease term or longer.\n\nWasher/dryer in the building.",
+    "Address": "Rue Mackenzie, Montr�al, QC, Canada",
+    "included": [
+      "Furnished",
+      "Washer",
+      "Dryer",
+      "Electricity",
+      "Hot-water",
+      "Wi-fi",
+      "Heating"
+    ],
+    "Rented": false,
+    "Date_de_disponibilite": "2024-04-01"
+  }
+]
