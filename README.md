@@ -13,6 +13,7 @@ Ce projet a été développé en utilisant [Node.js](https://nodejs.org/) pour l
 ### Exécution
 Pour exécuter l'API, utilisez la commande suivante :
 `npm start`
+
 L'API sera accessible à l'adresse `http://localhost:3000`.
 
 ### Points de terminaison
