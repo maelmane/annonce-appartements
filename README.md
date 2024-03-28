@@ -6,8 +6,8 @@ Ce projet vise à créer une API simple pour fournir des données sur les annonc
 Ce projet a été développé en utilisant [Node.js](https://nodejs.org/) pour le backend de l'API.
 
 ### Installation
-1. Cloner le dépôt GitHub : `git clone https://github.com/maelmane/test-housing-hawk.git`
-2. Accéder au répertoire du projet : `cd test-housing-hawk`
+1. Cloner le dépôt GitHub : `git@github.com:maelmane/annonce-appartements.git`
+2. Accéder au répertoire du projet : `cd annonce-appartements`
 3. Installer les dépendances : `npm install`
 
 ### Exécution
